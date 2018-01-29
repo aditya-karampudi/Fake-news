@@ -14,7 +14,7 @@ The data consists two columns
 1. Headline of article
 2. Body of article.
 
-The jupyter notebook contains the steps and the has-tagging of each step fo explaining the code
+The jupyter notebook contains the steps and the hash-tagging of each step explaining the code
 
 Classifying “fake news” provides a novel challenge to the data science community.  In many machine learning projects, the distinction between the different classes you want to predict is clear, whereas it’s a lot murkier in this case. This project validates the notion in data science that intuition and intimacy with your data is just as or more important than any model or tool at your disposal.
 
